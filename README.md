@@ -20,6 +20,7 @@ Currently, BTB supports the following flags:
 Let's call our file `source.btb` for this example and assume it works.<br>
 We would run `btb.exe source.btb -C` and accept the notice.<br>
 NOTE: An existing `out.exe` will be overwritten!<br>
-After waiting for a little, we'll have our `out.exe` in the same directory that we ran the command in. This file can now be distributed!
+After waiting for a little, we'll have our `out.exe` in the same directory that we ran the command in. This file can now be distributed!<br>
+NOTE: If icon.ico is not present, one will be created.
 
 [^1]: Obviously, it is much simpler than, say, assembly or COBOL.

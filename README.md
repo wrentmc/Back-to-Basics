@@ -11,10 +11,10 @@ This language, as referenced by its name, simulates programming in the early day
 Currently, BTB supports the following flags:
 |Flag|Alias|Description|
 |:---:|:---|---|
-|-h|(--help)|show this message|
-|-c|(--commands)|show command list|
-|-n|(--notitle)|do not show title|
-|-C|(--compile)|compile your source file into an executable. Change icon.ico to change the compiled icon.|
+|-h|--help|show a help message|
+|-c|--commands|show command list|
+|-n|--notitle|do not show title|
+|-C|--compile|compile your source file into an executable. Change icon.ico to change the compiled icon.|
 
 ## Compilation
 Let's call our file `source.btb` for this example and assume it works.<br>

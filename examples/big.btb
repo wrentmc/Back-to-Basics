@@ -1,0 +1,11 @@
+NAME n*(n*(n))\.\.\..
+-
+NIN.    CMT Get the number from the user.
+DUP.    CMT Duplicate the number for later use.
+DUP.    CMT Duplicate again for the loop counter.
+SLOOP.  CMT Start the loop.
+DUP.    CMT You get the drill.
+MUL.    CMT Square the number.
+ELOOP.  CMT End the loop.
+OUTN.   CMT Output the calculated factorial.
+-

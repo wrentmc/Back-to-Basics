@@ -1,0 +1,11 @@
+NAME 2+4.
+-
+ZRO. CMT Stack: [0].
+INC. CMT Stack: [1].
+INC. CMT Stack: [2].
+DUP. CMT Stack: [2,2].
+DUP. CMT Stack: [2,2,2].
+MUL. CMT Stack: [4,2]
+ADD. CMT Stack: [6].
+OUTN.
+-

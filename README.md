@@ -4,8 +4,8 @@ This language, as referenced by its name, simulates programming in the early day
 
 ## How to use
 1) Head to the release page of this Repo and download the current release.
-2) Write a BTB script (examples [here](https://github.com/wrentmc/Back-to-Basics/tree/main/examples)) using available commands (run `btb.exe -h` for help)
-3) Run `btb.exe <your file>`
+2) Write a BTB script (examples [here](https://github.com/wrentmc/Back-to-Basics/tree/main/examples)) using available commands (run `python3 btb.py -h` for help)
+3) Run `python3 btb.py <your file>`
 
 ## Flags
 Currently, BTB supports the following flags:
